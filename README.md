@@ -15,7 +15,7 @@ git clone https://github.com/Ameyapores/Udacity-Facebook-final-lab-
 cd Udacity-Facebook-final-lab-
 python3 main.py
 ```
-Final inteference format
+Final inference format
 
 
 <img src="imgs/inference_example.png" width="350" height="550"> 
